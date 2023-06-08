@@ -21,7 +21,7 @@ main{
 }
 
 .line{
-    display: flex;;
+    display: flex;
     background-color: #C8CCD8;
     width: 0.063rem;
     height: 6.5rem;
@@ -754,7 +754,7 @@ ul .slider{
     }
 
     .link-tab{
-        position: absolute;;
+        position: absolute;
         width: 325px;
         height: 260px;
         margin-left: 2.7rem;

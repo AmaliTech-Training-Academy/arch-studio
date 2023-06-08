@@ -639,8 +639,8 @@ button:hover{
         position: absolute;
         width: 325px;
         height: 255px;
-        margin-left: 3.5rem;
-        margin-top: 1.7rem;
+        margin-left: 3.2rem;
+        margin-top: 4.2rem;
         background: #EEEFF4;
         z-index: 2;
     }
@@ -657,7 +657,7 @@ button:hover{
     }
 
     .hero-image{
-        height: 471px;
+        height: 473px;
     }
 
     .image-container span{
